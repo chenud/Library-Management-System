@@ -111,4 +111,4 @@ LibraryManagementSystem/
 
 ## 📬 Contact
 
-*Priyanka J Dalwadi* - [dalwadipriyanka1727@gmail.com](mailto:dalwadipriyanka1727@gmail.com)
+*Devanshi K Kaman* - [devanshikaman214@gmail.com](mailto:devanshikaman214@gmail.com)
